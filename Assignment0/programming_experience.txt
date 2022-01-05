@@ -1,0 +1,12 @@
+Hello! My name is David Seo and I am a student of CS261 Winter 2022 at Oregon State University.
+
+I am most familiar with and really only know Python and MASM, as they are the only languages used in the courses at OSU CS so far.
+
+I have less than a years worth of experience in both, and this would still be my first year at OSU.
+
+For Python, I have used Pycharm- as used in CS 161,162 so far. For MASM, I have used Visual Studio 2019, as used in CS 271.
+
+I have only taken CS 161, 162, 225, 271 so far in my programming-related classes.
+
+Thank you,
+David
